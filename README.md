@@ -19,3 +19,42 @@ Arquivo 2A.s - solução da [Questão – 02 A], utilizando o MIPS.
 
 2A.teste3.png - terceiro teste executado.
 
+Arquivo 2B.s - solução da [Questão – 02 B], utilizando o MIPS.
+------------------------------------------------------------------------------------------------------------------
+2B.teste1.png - primeiro teste executado;
+
+2B.teste2.png - segundo teste executado;
+
+2B.teste3.png - terceiro teste executado.
+
+Arquivo 2C.s - solução da [Questão – 02 C], utilizando o MIPS.
+------------------------------------------------------------------------------------------------------------------
+2C.teste1.png - primeiro teste executado;
+
+2C.teste2.png - segundo teste executado;
+
+2C.teste3.png - terceiro teste executado.
+
+Arquivo 2D.s - solução da [Questão – 02 D], utilizando o MIPS.
+------------------------------------------------------------------------------------------------------------------
+2D.teste1.png - primeiro teste executado;
+
+2D.teste2.png - segundo teste executado;
+
+2D.teste3.png - terceiro teste executado.
+
+Arquivo 2E.s - solução da [Questão – 02 E], utilizando o MIPS.
+------------------------------------------------------------------------------------------------------------------
+2E.teste1.png - primeiro teste executado;
+
+2E.teste2.png - segundo teste executado;
+
+2E.teste3.png - terceiro teste executado.
+
+Arquivo 2F.s - solução da [Questão – 02 F], utilizando o MIPS.
+------------------------------------------------------------------------------------------------------------------
+2F.teste1.png - primeiro teste executado;
+
+2F.teste2.png - segundo teste executado;
+
+2F.teste3.png - terceiro teste executado.
