@@ -1,7 +1,7 @@
 # ATV_WVR_RR_29.08
 
 Grupo: Rafael da Silva, Vicente Francisco de Sousa Sampaio, William Faray da Silva Júnior
-
+------------------------------------------------------------------------------------------------------------------
 
 Arquivo maior.s  - solução da [Questão – 01], utilizando o MIPS; 
 
